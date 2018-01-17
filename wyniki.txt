@@ -1,0 +1,5 @@
+10000
+Wstawienie: 390
+Szukanie: 282
+Usuwanie: 311
+
